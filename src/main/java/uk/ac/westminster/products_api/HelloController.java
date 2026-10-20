@@ -1,4 +1,4 @@
-package uk.ac.westminster.productsapi;
+package uk.ac.westminster.products_api;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -21,3 +21,4 @@ public class HelloController {
         return "API is running — Tutorial 1";
     }
 }
+

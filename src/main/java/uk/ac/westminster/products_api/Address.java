@@ -1,6 +1,7 @@
-package uk.ac.westminster.productsapi;
+package uk.ac.westminster.products_api;
 
 public class Address {
+
     private String street;
     private String city;
     private String postcode;
